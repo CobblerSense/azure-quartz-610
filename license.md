@@ -133,4 +133,4 @@ Yes — download again and repeat the steps.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*azure-quartz-610 · Updated 2026-10-09 · Shared under the MIT License*
+*azure-quartz-610 · Updated 2026-10-10 · Shared under the MIT License*
